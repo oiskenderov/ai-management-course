@@ -48,10 +48,6 @@ AZDNU Trainings for Deep AI Learn and how to use it with Automation for Homework
 ## 👥 Автор
 Orkhan Iskandarov
 DevOps & Infrastructure Engineer | Специалист по системам и управлению  
-[Email: oiskenderov@gmail.com или 
-GitHub Profile — https://github.com/oiskenderov
-Github Repo - https://github.com/oiskenderov/ai-management-course.git]
-
----
-
-> 💡 Совет: клонируйте репозиторий и начните с `lessons/lesson_01_introduction/`!
+[Email: oiskenderov@gmail.com] 
+[GitHub Profile — https://github.com/oiskenderov]
+[Github Repo - https://github.com/oiskenderov/ai-management-course.git]

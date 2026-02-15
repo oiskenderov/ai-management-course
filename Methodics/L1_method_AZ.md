@@ -45,6 +45,16 @@ Bu sənəd **menecerlər, rəhbərlər və ya idarəetmə üzrə baza anlayış�
 ### **Slayd 1–2: Başlıq + Məqsədlər**
 
 * Qısa şəkildə özünüzü təqdim edin.
+
+***
+
+**Mən Orxan İskəndərov**  
+DevOps və İnfratuzlaşma Mühəndisi, paylanmış sistemlərin layihələndirilməsi, şəbəkə arxitekturası və texniki optimallaşdırma sahəsində çoxillik təcrübəyə malikəm.
+
+Müxtəlif sahələrdən olan rəhbərlərlə işləyərək süni intellekti (Sİ) rutin proseslərin avtomatlaşdırılması, məlumatların təhlili və qərar qəbulu üçün tətbiq etməkdə kömək etmişəm — resurs optimallaşdırmasından biznes metrikanın proqnozlaşdırılmasına qədər. Sizə yalnız «modeli necə işə salmaq» deyil, həm də real şəraitdə Sİ üçün infrastrukturun necə qurulacağını öyrədəcəyəm: tətbiqetmə, MLOps, miqyaslaşdırma və biznes proseslərinə inteqrasiya. Əsas diqqət — praktiki faydada: Sİ-ni sadə alətdən rəqabət üstünlüyünə çevirmək.
+
+***
+
 * Məqsədləri ucadan oxuyun:
 
   > “Dərsin sonunda siz **həmkarınıza izah edə biləcəksiniz** ki, Sİ avtomatlaşdırmadan nə ilə fərqlənir, onun idarəetmədə **2–3 tətbiq nümunəsini göstərə biləcəksiniz** və **etik riskləri formalaşdıra biləcəksiniz**.”

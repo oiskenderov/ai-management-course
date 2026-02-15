@@ -22,11 +22,11 @@ Bu sənəd **menecerlər, rəhbərlər və ya idarəetmə üzrə baza anlayış�
 
 ### 🎤 Nə demək lazımdır:
 
-> “Salam! Bu gün biz elə bir kursa başlayırıq ki, o sizə sadəcə ‘süni intellekt’ kimi dəbli bir termini eşitmək yox, onu **real idarəetmə aləti kimi istifadə etməyi öyrənməyə** kömək edəcək.
+> “Salam! Bu gün biz elə bir kursa başlayırıq ki, o sizə sadəcə ‘süni intellekt’ kimi dəbli bir termini eşitmək yox, onu **real idarəetmə aləti kimi istifadə etməyi öyrənməyə** kömək edəcəm.
 >
-> Biz kod yazmayacağıq, neyron şəbəkələr qurmayacağıq. Amma biz **Sİ dilində düşünməyi**, onun harada kömək etdiyini, harada isə zərər verə biləcəyini və onu necə məsuliyyətli və effektiv şəkildə tətbiq etməyi öyrənəcəyik.
+> Biz kod yazmayacağıq, neyron şəbəkələr qurmayacağıq. Amma biz **Sİ dilində düşünməyi**, onun harada kömək etdiyini, və harada isə zərər verə biləcəyini və onu necə məsuliyyətli və effektiv şəkildə tətbiq etməyi öyrənəcəyik.
 >
-> Bu ilk dərs bütün kursun təməlidir. Burada biz Sİ-nin əslində nə olduğunu müəyyən edəcək, mifləri dağıdacaq və onun artıq HR-dən logistikaya qədər idarəetmədə necə işlədiyini göstərəcəyik.”
+> Bu ilk dərs bütün kursun təməlidir. Burada biz Sİ-nin əslində nə olduğunu müəyyən edəcək, mifləri dağıdacaq və onun artıq HR-dən logistikaya qədər idarəetmədə necə işlədiyini görəcəyik.”
 
 ### 📌 Girişin məqsədi:
 
@@ -49,9 +49,15 @@ Bu sənəd **menecerlər, rəhbərlər və ya idarəetmə üzrə baza anlayış�
 ***
 
 **Mən Orxan İskəndərov**  
-DevOps və İnfratuzlaşma Mühəndisi, paylanmış sistemlərin layihələndirilməsi, şəbəkə arxitekturası və texniki optimallaşdırma sahəsində çoxillik təcrübəyə malikəm.
+DevOps və İnfrastruktur Mühəndisi, paylanmış sistemlərin layihələndirilməsi, şəbəkə arxitekturası və texniki optimallaşdırma sahəsində çoxillik təcrübəyə malikəm.
 
-Müxtəlif sahələrdən olan rəhbərlərlə işləyərək süni intellekti (Sİ) rutin proseslərin avtomatlaşdırılması, məlumatların təhlili və qərar qəbulu üçün tətbiq etməkdə kömək etmişəm — resurs optimallaşdırmasından biznes metrikanın proqnozlaşdırılmasına qədər. Sizə yalnız «modeli necə işə salmaq» deyil, həm də real şəraitdə Sİ üçün infrastrukturun necə qurulacağını öyrədəcəyəm: tətbiqetmə, MLOps, miqyaslaşdırma və biznes proseslərinə inteqrasiya. Əsas diqqət — praktiki faydada: Sİ-ni sadə alətdən rəqabət üstünlüyünə çevirmək.
+Müxtəlif sahələrdən olan rəhbərlərlə işləyərək süni intellekti (Sİ) rutin proseslərin avtomatlaşdırılması, məlumatların təhlili və qərar qəbulu üçün tətbiq etməkdə kömək etmişəm — resurs optimallaşdırmasından biznes metrikanın proqnozlara qədər. Sizə yalnız «modeli necə işə salmaq» deyil, həm də real şəraitdə Sİ üçün infrastrukturun necə qurulacağını öyrədəcəyəm: tətbiqetmə, MLOps, miqyaslaşdırma və biznes proseslərinə inteqrasiya. Əsas diqqət — praktiki faydada: Sİ-ni sadə alətdən rəqabət üstünlüyünə çevirmək.
+
+or
+
+***Mən Orxan İskəndərov***
+DevOps və İnfrastruktur Mühəndisiç Sebeke ve Sistem İnzibatci. Paylanmış sistemlər, şəbəkələr və texniki optimallaşdırma sahəsində uzun illik təcrübəm var.
+Müxtəlif sahələrdən olan rəhbərlərə süni intellekti işə salmaqda kömək etmişəm: gündəlik işlərin avtomatlaşdırılması, məlumatların təhlili, qərarların sürətləndirilməsi. Sizə yalnız modelləri işlətməyi deyil, onları real biznesdə necə düzgün qurmağı, idarə etməyi öyrədəcəyəm. Məqsədim — süni intellekti sadə alətdən sizin rəqabət qabiliyyətinizə çevirməkdir.
 
 ***
 

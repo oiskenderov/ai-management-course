@@ -1,4 +1,3 @@
-Aşağıda sənədin **məntiqi, strukturu və konteksti tam qorunmaqla** Azərbaycan dilinə tam tərcüməsi təqdim olunur:
 
 ---
 
@@ -56,7 +55,7 @@ Müxtəlif sahələrdən olan rəhbərlərlə işləyərək süni intellekti (S�
 or
 
 ***Mən Orxan İskəndərov***
-DevOps və İnfrastruktur Mühəndisiç Sebeke ve Sistem İnzibatci. Paylanmış sistemlər, şəbəkələr və texniki optimallaşdırma sahəsində uzun illik təcrübəm var.
+Enterprise İnfrastruktur(Sebeke, Sistem) və DevOps Mühəndisi. Paylanmış sistemlər, şəbəkələr və texniki optimallaşdırma sahəsində uzun illik təcrübəm var.
 Müxtəlif sahələrdən olan rəhbərlərə süni intellekti işə salmaqda kömək etmişəm: gündəlik işlərin avtomatlaşdırılması, məlumatların təhlili, qərarların sürətləndirilməsi. Sizə yalnız modelləri işlətməyi deyil, onları real biznesdə necə düzgün qurmağı, idarə etməyi öyrədəcəyəm. Məqsədim — süni intellekti sadə alətdən sizin rəqabət qabiliyyətinizə çevirməkdir.
 
 ***
@@ -74,7 +73,7 @@ Müxtəlif sahələrdən olan rəhbərlərə süni intellekti işə salmaqda kö
   > “Sİ insan-robot deyil. O, **məlumatlar üzərində öyrənən və açıq şəkildə yazılmış proqram olmadan qərar qəbul edən sistemdir**.”
 * **Analogiya**:
 
-  > “Təsəvvür edin ki, siz uşağa ayaqqabı bağlamağı öyrədirsiniz. Ona ‘əvvəl sol ilgək, sonra sağ ilgək’ kimi alqoritm yazmırsınız. Dəfələrlə göstərirsiniz və o, **təcrübəni ümumiləşdirir**. Sİ də belə öyrənir.”
+  > “Təsəvvür edin ki, siz uşağa ayaqqabı bağlamağı öyrədirsiniz. Ona ‘əvvəl sol aykabi geyinmek, sonra sağ aykabi geyinmek’ kimi alqoritm yazmırsınız ki. Dəfələrlə göstərirsiniz və o, **təcrübəni ümumiləşdirir**. Sİ də belə öyrənir.”
 * **Vurğulayın**:
 
   > “Sİ **başa düşmür**, o **nümunələri (patternləri) tanıyır**. O, ‘ədalət’ anlayışını bilmir — sadəcə məlumatlarda kreditlərin daha çox kişilərə verildiyini görür.”

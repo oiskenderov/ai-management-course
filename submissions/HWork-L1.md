@@ -1,5 +1,10 @@
 Lesson 1 - https://docs.google.com/forms/d/e/1FAIpQLSfJt8EePBQ4RJ7aApHs4cI_oE_taqTwq_HKSMORtcmjS-2WQg/viewform
 
+
+Lesson 2 - https://docs.google.com/forms/d/e/1FAIpQLSfDQiAtBRif9w70FTQFLJaN8KI3XVGhZAdldWfYHLnjCXAfqg/viewform?usp=publish-editor
+
+Lesson 3 -
+
 ### 🧪 Тест (5 вопросов)
 
 1. **Какое из следующих определений лучше всего описывает искусственный интеллект?**    

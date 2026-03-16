@@ -51,3 +51,10 @@ DevOps & Infrastructure Engineer | Специалист по системам и
 [Email: oiskenderov@gmail.com] 
 [GitHub Profile — https://github.com/oiskenderov]
 [Github Repo - https://github.com/oiskenderov/ai-management-course.git]
+
+
+
+
+
+https://drive.google.com/drive/folders/1TEtR1Fb75MWcHp3ItB8Ok29Vq1pTmjDX?usp=drive_link
+
